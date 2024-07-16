@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Udemy\\MinimalAPIPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\udemy\\minimalapipeliculas\\minimalapipeliculas\\endponits\\generosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\endponits\\generosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\udemy\\minimalapipeliculas\\minimalapipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\udemy\\minimalapipeliculas\\minimalapipeliculas\\repositorios\\repositoriogeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\repositorios\\repositoriogeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\udemy\\minimalapipeliculas\\minimalapipeliculas\\repositorios\\irepositoriogeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\repositorios\\irepositoriogeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|c:\\udemy\\minimalapipeliculas\\minimalapipeliculas\\minimalapipeliculas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BE342B4-790D-4146-8A97-AA973ADB2921}|MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj|solutionrelative:minimalapipeliculas\\minimalapipeliculas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerosEndpoints.cs",
+              "DocumentMoniker": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Endponits\\GenerosEndpoints.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Endponits\\GenerosEndpoints.cs",
+              "ToolTip": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Endponits\\GenerosEndpoints.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Endponits\\GenerosEndpoints.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:18:33.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinimalAPIPeliculas",
+              "DocumentMoniker": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+              "ToolTip": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+              "RelativeToolTip": "MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T02:18:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioGeneros.cs",
+              "DocumentMoniker": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Repositorios\\RepositorioGeneros.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Repositorios\\RepositorioGeneros.cs",
+              "ToolTip": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Repositorios\\RepositorioGeneros.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Repositorios\\RepositorioGeneros.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:44:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Program.cs",
+              "ToolTip": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Program.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:11:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorioGeneros.cs",
+              "DocumentMoniker": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Repositorios\\IRepositorioGeneros.cs",
+              "RelativeDocumentMoniker": "MinimalAPIPeliculas\\Repositorios\\IRepositorioGeneros.cs",
+              "ToolTip": "C:\\Udemy\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\Repositorios\\IRepositorioGeneros.cs",
+              "RelativeToolTip": "MinimalAPIPeliculas\\Repositorios\\IRepositorioGeneros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:02:18.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

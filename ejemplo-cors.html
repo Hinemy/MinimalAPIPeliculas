@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Prueba CORS del web api (presionar F12)</h1>
+    <script>
+        const urlWebAPI = 'https://localhost:7127';
+        consumirwebAPI();
+        async function consumirwebAPI() {
+            const respuesta = await fetch(urlWebAPI, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+            //Convertir peticion de tipo json
+            //const json = await respuesta.json();
+
+            //Convertir respuesta a tipo text 
+            const json = await respuesta.text();
+
+            console.log(json);
+        }
+
+    </script>
+    
+</body>
+</html>
